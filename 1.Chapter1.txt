@@ -117,3 +117,6 @@ Ifconfig etho promise - enales promiscuous mode on the first ethernet interface.
 Ifconfig etho allmulti - this command enables mutilcast mode on the NIC. This allows the NIC to process allmulti
                         multicast traffic received by the NIC.
 
+REMEMBER THIS - Windows system use ipconfig to view networks interface. Linux systems use Ifconfig can also manipulate the settings on the network interfaces.
+
+
