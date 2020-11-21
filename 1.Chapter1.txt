@@ -1,6 +1,28 @@
 Mastering Security Basic
 
+-MD5, SHA,  HMAC
 
+-3 Meaning of MAC
+    1.Media Access Control(MAC) - Assigned to (NIC Network Interface Card)
+
+-Digital Signature: Prevent attackers from impersonating other and sending malicious emails.
+-Redundacy: adds duplication to critical component has fault, the duplication provided by the Redundacy allows
+the service to continue without interruption.
+    *Disk Redundancies 
+    *Server Redundancies
+    *Load Balancing 
+    *Site Redundancies
+    *Backups
+    *Alternating power
+    *Cooling
+
+-Technical Control  
+    *Encryption
+    *Antivirus Software
+    *Intrusion detection system (IDS) Intrusion Prevention system (IPs)
+    *Firewalls
+    *Least Priviledge
+    
 Administrative Control - use method  mandated by organization policies of other guidelines.
     -Risk Assessments
     -Vulnerability Assessments
