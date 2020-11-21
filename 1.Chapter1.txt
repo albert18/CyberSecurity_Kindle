@@ -51,7 +51,46 @@ the service to continue without interruption.
     *Hardware locks
 -Compensating Controls - are Alternative controls used instead of primary control.
     ex: Smart Key
-    
+-Virtualization - is a popular technology used within large data centers and can do be used a on regular personal computer
+it allows you to host one more virtual system.
+-Hypervisor - software that creates, run and manages the VMs is the hypervisor.
+    -Ex products: VMware, MS hyper-V and Oracle VM Virtual box
+-Host - the physical system hosting the VMs is the hypervisor several Virtualization technologies currently exist, including    
+VMware products.
+-Guest - operating systems running on the host system are guest or guest machine.
+-Host Elasticity  and Scalability - Elasticity and Scalability refer to the ability to resize computing capacity basd on the load.
+
+-Company Hypervisors
+    *Type 1 - run directly on the system hardware. They often called baremetal Hypervisor because they dont need run within
+                operating system.
+    *Type 2 - run a software within a host operaing system.
+
+Note: Kernel is the central part uses of the operating system.
+
+-Container Virtualization - as part run within isolated cells or container and does not have its own kernel.
+
+-Snapshots - provides you with a copy of the VM at the moment in time, which you can use a backup.
+
+-VDI/VDE and non Persistence - a user's desktop operaing system runs as a VM on a Server.
+    Benefits: users PC can have limited hardware.
+
+-VM as a file - is just a group of files, it becomes relatively easy to move them from one physical server to another.
+
+-Risk Associated with Virtualization
+    *VM Escape - is an attack that allows a attackers to access the host system from within the virtual system.
+    *VM Sprawl - occurs when an organization has many VM's that aren't mamanged properly
+
+-VM
+    -Hyper-V
+    -VMWare workstation player
+    -Oracle VM virtualbox
+
+-Using Command
+    -Line Tools
+    -Windows Command Line
+    -Linux Terminal
+
+
     
 
 
