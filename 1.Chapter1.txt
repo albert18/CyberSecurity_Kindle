@@ -119,4 +119,17 @@ Ifconfig etho allmulti - this command enables mutilcast mode on the NIC. This al
 
 REMEMBER THIS - Windows system use ipconfig to view networks interface. Linux systems use Ifconfig can also manipulate the settings on the network interfaces.
 
+Netstat - The nestat command(short for network statistics) allows you the view statistics for TCP/IP protocol on a system. it also give you the ability to view active TCP/IP
+        network connections.
+Netstat -a - displays a listing of all TCP and user datagram protocol(UDP) ports that a system is listening on, in addition to all open connections.
+Netstat -r - displays the routing table
+Netstat -e - displays details on networks statistics, including how many bytes the system send and received.
+Netstat -s - displays statistics of packet sent or received for specific protocols, such as IP, ICMP, TCP and UDP.
+Netstat -n - displays addresses and port number is numerical order. This can be use userful if you're looking for information related to a specific IP address or specific port.
+
+Tracert - Tracert identifies the IP address and sometimes the host name of each hop in addition to the round-trip times (RTTs)
+
+ARP - is a command-line tool that is related to the address resolution(ARP).
+
+
 
