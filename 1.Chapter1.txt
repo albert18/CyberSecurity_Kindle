@@ -46,7 +46,12 @@ the service to continue without interruption.
     *Security Audit
     *Video Surveillance
     *Monitoring Detection
-
+-Deterren Controls - Attempt to discourage a threat. Some deterrent controls attempt to discourage potential attackers.
+    *Cable locks
+    *Hardware locks
+-Compensating Controls - are Alternative controls used instead of primary control.
+    ex: Smart Key
+    
     
 
 
