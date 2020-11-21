@@ -23,6 +23,32 @@ the service to continue without interruption.
     *Firewalls
     *Least Priviledge
     
-Administrative Control - use method  mandated by organization policies of other guidelines.
-    -Risk Assessments
-    -Vulnerability Assessments
+-Administrative Control - use method  mandated by organization policies of other guidelines.
+    *Risk Assessments
+    *Vulnerability Assessments
+    *Pentration Tests
+    *Awareness and training
+    *Configuration and change management
+    *Contingency Planning
+    *Media Protection
+    *Physical and environment Protection
+-Physical Controls - are any controls that you can physical touch.
+-Control Goals - Technical and Administrative controls categorize the controls based on how they are implemented.
+-Preventive Control - to prevent Security incidents
+    *Hardening
+    *Security Awareness and training
+    *Security guards
+    *Change management
+    *Account disablement policy
+-Dectetive Control - attempt to detech when Vulnerabilities have exploited, resulting in a Security incident.
+    *Log Monitoring
+    *Trend Analysis
+    *Security Audit
+    *Video Surveillance
+    *Monitoring Detection
+
+    
+
+
+
+
