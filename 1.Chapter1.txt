@@ -110,6 +110,10 @@ REMEMBER THIS: Administrator use ping to check connectivity of remote systems an
 
 -ipconfig - provides basic information about the the NIC, such as the IP address, subnet mask and the default gateway.
 -ipconfig/all - this commnand shows comprehensive listing of TCP/IP configuration information for each NIC
-
-
+Ipconfig/displaydns - each time a system queries DNS to resolve a host name to an IP address.
+ipconfig/flushdns - you can erase the contents of the DNS cache with this command.
+Ifconfig etho - shows the configurationof the first ethernet interface(NIC) on Linux.
+Ifconfig etho promise - enales promiscuous mode on the first ethernet interface.
+Ifconfig etho allmulti - this command enables mutilcast mode on the NIC. This allows the NIC to process allmulti
+                        multicast traffic received by the NIC.
 
