@@ -90,9 +90,26 @@ Note: Kernel is the central part uses of the operating system.
     -Windows Command Line
     -Linux Terminal
 
+Ping -is a basic command used to test connectivity for remote systems.
+    You can also use it to verify a system can resolve valid host names
+    to IP addresses, test the NIC, and check the security posture of a Network.
+    Example: 
+        ping 192.168.1.1
+        ping -t 192.168.1.1
+        ping -c 4 192.168.1.1
+        ping getcertifiedgetahead.com
 
+-Firewalls
     
+REMEMBER THIS: Administrator use ping to check connectivity of remote systems and verift name resolution is working.
+                They also use ping to check the security posture of systems and networks by verifying that routers, firewall and IS BLOCK
 
+-Ipconfig(short for internet protocol Configuration) - shows the transmission control protocol/internet protocol(TCP/IP) configuration information for a system.
+
+-Ifconfig(short for interface configuration) - Linux-based
+
+-ipconfig - provides basic information about the the NIC, such as the IP address, subnet mask and the default gateway.
+-ipconfig/all - this commnand shows comprehensive listing of TCP/IP configuration information for each NIC
 
 
 
