@@ -1,2 +1,8 @@
 Chapter 2 Understanding Identity and access management
 
+-Authentication, Authorization and Accouting(AAA) - work together with identification to provide
+a comprehensive access management system. 
+
+-REMEMBER THIS
+    -identification occurs when user claims an identity such as with a username or email address.
+    Authentication occurs when the user proves the identity.
