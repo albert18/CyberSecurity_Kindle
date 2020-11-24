@@ -6,3 +6,30 @@ a comprehensive access management system.
 -REMEMBER THIS
     -identification occurs when user claims an identity such as with a username or email address.
     Authentication occurs when the user proves the identity.
+
+-Password Complexity
+
+-REMEMBER THIS
+    -Complex password use a mix of character types. Strong password use a mix of characters types and a minimum password
+    length of at least 14 characters.
+
+-Training users about password behaviors
+
+-Password Expiration
+-Password Recovery
+-Password History and Password Reuse
+-Group Policy - Group Policy is implemented on a domain controller within a domain. Administrators use it to create password policies. Implement
+    security settings, configure host-based firewalls, and much more.
+
+-Using Password Policy - a common group of settings that Administrators configure in Group Policy is the password policy settings.
+    -Enforece password History 
+    -Maximum password age
+    -Minimum password age
+    -Minimum password length
+    -Password must meet Complexity requirements
+    -Store passwords using reversible encryption
+-REMEMBER THIS 
+    Password policies include several elements. The password History is used with the minimum password age to prevent users from changing their password to previously used password. READ MORE.....
+
+
+
