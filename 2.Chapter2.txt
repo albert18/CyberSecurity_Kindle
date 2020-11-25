@@ -46,4 +46,6 @@ a comprehensive access management system.
 
 -Hash-based Message Authentication Code(HMAC) - uses a hash function cryptopgrahic key for many different cryptopgrahic functions.
 -HMAC-based One-Time password(HOTP) is an open standard used for creating one time passwords.
+-Time-based one-time password(TOTP) - uses a timestamp instead of a counter. One-time passwords created with TOTP typically expire after 30 seconds.
+
 
