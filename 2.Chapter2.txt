@@ -31,5 +31,6 @@ a comprehensive access management system.
 -REMEMBER THIS 
     Password policies include several elements. The password History is used with the minimum password age to prevent users from changing their password to previously used password. READ MORE.....
 
+-Implementing Account Lockout Policies
 
 
