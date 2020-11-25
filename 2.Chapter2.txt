@@ -32,5 +32,14 @@ a comprehensive access management system.
     Password policies include several elements. The password History is used with the minimum password age to prevent users from changing their password to previously used password. READ MORE.....
 
 -Implementing Account Lockout Policies
+-Changing Default Passwords
+-Smart Card
+    -Embedded Certification
+    -Public Key Infrastructure(PKI)
 
+-CAC's and PIVs
 
+-REMEMBER THIS
+    -Smart cards are often used with dual-factor Authentication where users have something(Smart card) and know something such password or PIN
+
+    
