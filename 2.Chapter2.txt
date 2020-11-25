@@ -48,4 +48,7 @@ a comprehensive access management system.
 -HMAC-based One-Time password(HOTP) is an open standard used for creating one time passwords.
 -Time-based one-time password(TOTP) - uses a timestamp instead of a counter. One-time passwords created with TOTP typically expire after 30 seconds.
 
-
+-REMEMBER THIS
+    - HOTP and TOTP are both open source standars used to create one-time use passwords. HOTP creates a one time use password that
+    does not expire until it is used. TOTP created a one-time password that expires after 30 seconds. Both can be used as software tokens for Authentication.
+    
