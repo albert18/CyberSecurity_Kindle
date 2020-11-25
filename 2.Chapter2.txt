@@ -42,4 +42,8 @@ a comprehensive access management system.
 -REMEMBER THIS
     -Smart cards are often used with dual-factor Authentication where users have something(Smart card) and know something such password or PIN
 
-    
+-Tokens or Key Fobs
+
+-Hash-based Message Authentication Code(HMAC) - uses a hash function cryptopgrahic key for many different cryptopgrahic functions.
+-HMAC-based One-Time password(HOTP) is an open standard used for creating one time passwords.
+
